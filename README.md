@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🌐 **LinkedIn**: [Jeffery Osei](https://www.linkedin.com/in/kojo-jeffery-464166308/)
+- 🌐 **LinkedIn**: [Jeffery Osei](https://www.linkedin.com/in/kojo-jeffery/)
 - 🌍 **Remote-OK**: [Jeffery Osei on Remote-OK](https://remoteok.com/@kojojeffery)
 
 ## Skills and Expertise
