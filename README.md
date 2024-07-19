@@ -1,4 +1,4 @@
-# Hi there, I'm Jeffery Osei 👋
+# Hi there, I'm Jeffery (Kojo) Osei 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to the tech community.
 
