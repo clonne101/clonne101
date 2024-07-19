@@ -33,3 +33,9 @@ Here are some of my notable projects:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a hidden obsession with building my own hardware, often spending my free time working with micro-controllers, especially after enjoying a good bowl of [Fufu with Chicken light-soup](https://eatwellabi.com/ghana-chicken-light-soup/).
 
+## Explore More
+
+For a deeper look into my activity and projects, you can check out my private GitHub profile where I spend most of my time developing and working on new ideas: [Private GitHub](https://github.com/kojo-jeffery).
+
+Feel free to explore and reach out if you’re interested in collaborating or learning more!
+
