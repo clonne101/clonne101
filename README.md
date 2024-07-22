@@ -37,5 +37,5 @@ Here are some of my notable projects:
 
 For a deeper look into my activity and projects, you can check out my private GitHub profile where I spend most of my time developing and working on new ideas: [Private GitHub](https://github.com/kojo-jeffery).
 
-Feel free to explore and reach out if you’re interested in collaborating or learning more!
+Feel free to [explore](https://github.com/clonne101?tab=repositories) and reach out if you’re interested in collaborating or learning more!
 
