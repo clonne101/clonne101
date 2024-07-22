@@ -11,18 +11,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - **Programming Languages**: [PHP](https://www.php.net/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), [Dart (Beginner)](https://dart.dev/), [C++ (Beginner)](https://isocpp.org/), and [Bash](https://stackoverflow.com/questions/28693737/is-bash-a-programming-language#28693815).
 - **Frameworks and Libraries**: [Laravel](https://laravel.com/), [FeathersJS](https://feathersjs.com/), [Flask](https://flask.palletsprojects.com/en/3.0.x/), [React-Query](https://tanstack.com/query/latest/docs/framework/react/overview), [Pyserial](https://pyserial.readthedocs.io/en/latest/pyserial.html), [NextJS](https://nextjs.org/), [Flutter (Beginner)](https://flutter.dev/).
-- **Tools and Platforms**: [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview), [Supabase](https://supabase.com/), [Solr](https://solr.apache.org/), [Minio](https://min.io/), [MySQL](https://www.mysql.com/), [Redis](https://redis.io/), [Nvidia NIMs](https://build.nvidia.com/meta/llama3-8b), [Coder](https://coder.com/), [Nix-Shells](https://nix.dev/tutorials/first-steps/declarative-shell#declarative-reproducible-envs), [Prometheus](https://prometheus.io/docs/introduction/overview/), [Grafana](https://grafana.com/), [Kafka](https://kafka.apache.org/), [Docker-Registry](https://distribution.github.io/distribution/), [Kibana](https://www.elastic.co/kibana), [Jenkins](https://www.jenkins.io/).
+- **Tools and Platforms**: [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview), [Supabase](https://github.com/clonne101/supabase), [Solr](https://github.com/clonne101/solr), [Minio]([https://github.com/clonne101/minio), [MySQL](https://github.com/clonne101/mysql), [Redis](https://github.com/clonne101/redis), [Nvidia NIMs](https://build.nvidia.com/meta/llama3-8b), [Coder](https://github.com/clonne101/coder), [Nix-Shells](https://nix.dev/tutorials/first-steps/declarative-shell#declarative-reproducible-envs), [Prometheus](https://github.com/clonne101/prometheus), [Grafana](https://github.com/clonne101/grafana), [Kafka](https://github.com/clonne101/kafka), [Docker-Registry](https://github.com/clonne101/registry), [Kibana](https://github.com/clonne101/kibana), [Jenkins](https://github.com/clonne101/jenkins).
 
 ## Projects
 
 Here are some of my notable projects:
 
 - **[Ghana.Gov](https://www.ghana.gov.gh/)**: A comprehensive platform for government services.
-- **Payment SDKs for ExpressPay**:
+- **SDKs and LIBs for ExpressPay**:
   - [Python SDK](https://pypi.org/project/expresspay-python-sdk/)
   - [PHP SDK](https://packagist.org/packages/expresspaygh/exp-php-sdk)
   - [JavaScript SDK](https://github.com/expresspaygh/expresspay-js-sdk)
-- **[PHP Library for Request Filtering, Validation, and Sanitization](https://github.com/expresspaygh/refine)**
+  - [Request Filtering, Validation, and Sanitization](https://github.com/expresspaygh/refine)
 
 ## More About Me
 
