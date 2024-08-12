@@ -4,7 +4,7 @@ A passionate developer with a keen interest in creating innovative solutions and
 
 ## About Me
 
-- 🌐 **LinkedIn**: [Jeffery Osei](https://www.linkedin.com/in/kojo-jeffery/)
+- 🌐 **LinkedIn**: [Jeffery Osei](https://www.linkedin.com/in/jeffery-osei/)
 - 🌍 **Remote-OK**: [Jeffery Osei on Remote-OK](https://remoteok.com/@kojojeffery)
 
 ## Skills and Expertise
