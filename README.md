@@ -1,6 +1,6 @@
 # Hi there, I'm Jeffery (Kojo) Osei 👋
 
-A passionate developer with a keen interest in creating innovative solutions and contributing to the tech community.
+A passionate developer with a keen interest in creating innovative solutions and contributing to the tech community. Recently, I’ve been exploring the intersection of software development and hardware, with a focus on embedded devices, smart technologies, and integrating LLMs into my personal workflow.
 
 ## About Me
 
@@ -26,8 +26,8 @@ Here are some of my notable projects:
 
 ## More About Me
 
-- 👀 I’m interested in working with embedded or IoT devices like Arduinos and Espressif ESP-32 and ESP-8266 micro-controllers.
-- 🌱 I’m currently learning C++ and Python for systems programming and occasionally solving challenges with Rust as a learning process.
+- 👀 I’m interested in working with embedded or IoT devices like Arduinos and Espressif ESP-32 and ESP-8266 micro-controllers, which has been a significant focus during my recent career break.
+- 🌱 I’m currently learning C++ and Python for systems programming, training LLMs, and occasionally solving challenges with Rust as a learning process.
 - 💞️ I’m looking to collaborate on SAAS and Enterprise projects that aim to or are using the stack: Laravel (PHP), NextJS (Typescript), Supabase (Deno functions), Flask APIs (Python).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffery-osei/) or via email at openclonne@duck.com. Personal website coming soon!
 - 😄 Pronouns: he/him
@@ -38,4 +38,3 @@ Here are some of my notable projects:
 For a deeper look into my activity and projects, you can check out my private GitHub profile where I spend most of my time developing and working on new ideas: [Private GitHub](https://github.com/kojo-jeffery).
 
 Feel free to [explore](https://github.com/clonne101?tab=repositories) and reach out if you’re interested in collaborating or learning more!
-
