@@ -29,7 +29,7 @@ Here are some of my notable projects:
 - 👀 I’m interested in working with embedded or IoT devices like Arduinos and Espressif ESP-32 and ESP-8266 micro-controllers.
 - 🌱 I’m currently learning C++ and Python for systems programming and occasionally solving challenges with Rust as a learning process.
 - 💞️ I’m looking to collaborate on SAAS and Enterprise projects that aim to or are using the stack: Laravel (PHP), NextJS (Typescript), Supabase (Deno functions), Flask APIs (Python).
-- 📫 How to reach me: [New LinkedIn](https://www.linkedin.com/in/kojo-jeffery/) (Note: I lost access to my old LinkedIn account) or via email at openclonne@duck.com. Personal website coming soon!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffery-osei/) or via email at openclonne@duck.com. Personal website coming soon!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a hidden obsession with building my own hardware, often spending my free time working with micro-controllers, especially after enjoying a good bowl of [Fufu with Chicken light-soup](https://eatwellabi.com/ghana-chicken-light-soup/).
 
